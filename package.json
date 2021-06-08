@@ -1,0 +1,20 @@
+{
+    "name": "nadeko",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "author": "hyprexbtw",
+    "license": "ISC",
+    "dependencies": {
+      "chalk": "^4.1.0",
+      "croxydb": "^0.0.7",
+      "discord.js": "^12.5.1",
+      "fs": "0.0.1-security",
+      "os": "^0.1.1",
+      "path": "^0.12.7"
+    }
+  }
+  
